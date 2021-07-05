@@ -68,6 +68,16 @@ section{
        background-image: url(images/top-banner.png);
    } .picphoto{
        padding-top: 50px;
+       margin-bottom: 100px;
+   } .dream{
+       background-image: url(images/dream-bg.png);
+       background-repeat: no-repeat; background-position: right;
+   } .pm{
+       margin-right: 100px;
+   } .new-box{ background-color: black; color: whitesmoke;
+    width: 40%;   
+    box-shadow: 10px 10px 40px;
+    margin-left: 5%; margin-right: 5%; padding-left: 20px;
    }
 
 
