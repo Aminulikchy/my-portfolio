@@ -1,8 +1,10 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 h1 {
     font-size: 40px;
+    padding-left: 50px; padding-bottom: 20px;
 }
 .orange {
     color: orange;
@@ -20,9 +22,10 @@ section{
     background-image: linear-gradient( orange, tomato );
     font-weight: 700;
     border: orangered;
+    margin: 50px;
     border-radius: 5px;
     text-decoration: none;
-    padding: 10px 40px ;
+    padding: 10px 30px 
 } 
 .web{
     color: gold;
@@ -45,6 +48,9 @@ section{
     #cd{  background-color: black;
 
    } 
+   .first{
+       padding-left: 60px; padding-top: 20px;
+   }
    #abc{
        background-color: darkorange;
    }
@@ -58,6 +64,10 @@ section{
        color: magenta;
    } .final{
        padding-left: 35%;
+   } .top-banner{
+       background-image: url(images/top-banner.png);
+   } .picphoto{
+       padding-top: 50px;
    }
 
 
